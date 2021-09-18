@@ -1,0 +1,48 @@
+[conf]                N               3
+[conf]                J            0.000
+[conf]             beta           1.000
+[conf]              dt0       4.000e-01
+[conf]        eps_trunc       1.000e-04
+[conf]           eps_dt       9.000e-02
+[conf]          eps_tol       1.000e-03
+[conf]             Dmax              10
+[conf]           dt_red           0.800
+[conf]         phys_gap       1.000e-03
+[info]           i      MBD                dt                 E           rel_err           exp_err             slope
+[itstep]         0    2.000         4.000e-01     -0.6341667970      1.000000e+00      1.000000e-03     -2.992271e+00
+[itstep]         1    2.000         4.000e-01     -1.9684933057      2.104062e+00      8.218994e+04     -3.335816e+00
+[itstep]         2    2.000         4.000e-01     -2.7149397567      3.791968e-01      1.481238e+04     -1.866116e+00
+[itstep]         3    2.000         4.000e-01     -2.9375416061      8.199145e-02      3.202791e+03     -5.565046e-01
+[itstep]         4    2.000         4.000e-01     -2.9871661677      1.689323e-02      6.598917e+02     -1.240614e-01
+[itstep]         5    2.000         4.000e-01     -2.9973995553      3.425785e-03      1.338197e+02     -2.558347e-02
+[itstep]         6    2.000         4.000e-01     -2.9994745967      6.922806e-04      2.704221e+01     -5.187604e-03
+[itstep]         7    2.000         4.000e-01     -2.9998939073      1.397947e-04      5.460729e+00     -1.048276e-03
+[itstep]         8    2.000         4.000e-01     -2.9999785796      2.822510e-05      1.102543e+00     -2.116808e-04
+[itstep]         9    2.000         4.000e-01     -2.9999956753      5.698593e-06      2.226013e-01     -4.273914e-05
+[itstep]        10    2.000         4.000e-01     -2.9999991269      1.150528e-06      4.494249e-02     -8.628946e-06
+[itstep]        11    2.000         4.000e-01     -2.9999998237      2.322876e-07      9.073735e-03     -1.742157e-06
+[itstep]        12    2.000         4.000e-01     -2.9999999644      4.689806e-08      1.831956e-03     -3.517354e-07
+[update_dt]  (i= 13) Reduced time step from   0.400000 to   0.320000
+[update_E0]  (i= 13) Extrapolated energy ground state E0:  -5.471712
+[itstep]        13    2.000         3.200e-01     -2.9999999928      9.468556e-09      3.698655e-04     -7.101417e-08
+[update_dt]  (i= 14) Reduced time step from   0.320000 to   0.256000
+[update_E0]  (i= 14) Extrapolated energy ground state E0:  -3.000000
+[itstep]        14    2.000         2.560e-01     -2.9999999980      1.729292e-09      1.649181e-04     -1.621211e-08
+[update_dt]  (i= 15) Reduced time step from   0.256000 to   0.204800
+[update_E0]  (i= 15) Extrapolated energy ground state E0:  -3.000000
+[itstep]        15    2.000         2.048e-01     -2.9999999993      4.267857e-10      9.936879e-05     -5.001395e-09
+[update_dt]  (i= 16) Reduced time step from   0.204800 to   0.163840
+[update_E0]  (i= 16) Extrapolated energy ground state E0:  -3.000000
+[itstep]        16    2.000         1.638e-01     -2.9999999997      1.337570e-10      7.603205e-05     -1.959331e-09
+[update_dt]  (i= 17) Reduced time step from   0.163840 to   0.131072
+[update_E0]  (i= 17) Extrapolated energy ground state E0:  -3.000000
+[itstep]        17    2.000         1.311e-01     -2.9999999998      5.068509e-11      7.033969e-05     -9.280716e-10
+[update_dt]  (i= 18) Reduced time step from   0.131072 to   0.104858
+[update_E0]  (i= 18) Extrapolated energy ground state E0:  -3.000000
+[itstep]        18    2.000         1.049e-01     -2.9999999999      2.233813e-11      7.568453e-05     -5.112793e-10
+[update_dt]  (i= 19) Reduced time step from   0.104858 to   0.083886
+[update_E0]  (i= 19) Extrapolated energy ground state E0:  -3.000000
+[itstep]        19    2.000         8.389e-02     -2.9999999999      1.110164e-11      9.183060e-05     -3.176204e-10
+
+[info]       steps       dt                E0                 E
+[output]        20    0.084     -3.0000000000     -2.9999999999
