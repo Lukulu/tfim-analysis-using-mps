@@ -1,5 +1,5 @@
 # tfim_analysis_using_mps
-Investigation of the transverse field Ising Model using MPS
+Investigation of the transverse field Ising Model using MPS with ***Python***
 
 - **Code folder:** contains the main library _MPSfunc_lib.py_, the Jupyter Notebooks for each analysis and the corresponding Python Scripts to perform the analysis on the cluster.
 
